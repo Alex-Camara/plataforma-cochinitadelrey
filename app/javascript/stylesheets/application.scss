@@ -1,3 +1,12 @@
 @import "tailwindcss/base";
 @import "tailwindcss/components";
 @import "tailwindcss/utilities";
+// @import "hamburgers";
+
+.white-icon {
+    filter: invert(85%) sepia(13%) saturate(721%) hue-rotate(194deg) brightness(108%) contrast(101%);
+}
+
+.pink-icon {
+    filter: invert(29%) sepia(70%) saturate(3808%) hue-rotate(318deg) brightness(95%) contrast(96%);
+}
